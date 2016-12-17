@@ -1,14 +1,10 @@
 ﻿<html>
 <head>
 <title>Авторизация</title>
-<link rel="stylesheet" type="text/css" href="css/indexstyle.css">
     <style type="text/css">
    .auth { 
-  
-
 	
-		
-text-align: center;
+    text-align: center;
     height:200px;
 
    }
