@@ -1,17 +1,26 @@
 ﻿<html>
 <head>
 <title>Авторизация</title>
+<link rel="stylesheet" type="text/css" href="css/indexstyle.css">
     <style type="text/css">
    .auth { 
+  
+
 	
-    text-align: center;
+		
+text-align: center;
     height:200px;
 
    }
   </style> 
 </head>
 <body>
+<?
 
+
+
+
+?>
 <div class="auth">
 <form action="authinit.php" method="GET">
 <h1>Логин:</h1> <input type=text name=name><br>
